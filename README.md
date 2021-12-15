@@ -1,4 +1,4 @@
-# WICED BTSDK Tools
+# AIROC&#8482; BTSDK Tools
 
 ### Overview
 
